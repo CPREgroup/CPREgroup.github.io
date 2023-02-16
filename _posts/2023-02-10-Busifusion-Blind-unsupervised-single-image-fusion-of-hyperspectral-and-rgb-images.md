@@ -1,5 +1,5 @@
 ---
-title: BUSIFusion\: Blind unsupervised single image fusion of hyperspectral and rgb images
+title: "BUSIFusion: Blind unsupervised single image fusion of hyperspectral and rgb images"
 type: blog
 selected: true
 layout: post
