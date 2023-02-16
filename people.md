@@ -29,7 +29,7 @@ layout: page
             <tr>
                 <td style="text-align: center">深度学习</td>
                 <td style="text-align: center">深度学习、图像处理</td>
-                <td style="text-align: center">深度学习&图像学&图形学</td>
+                <td style="text-align: center">深度学习&光谱图像&NeRF</td>
             </tr>
             <tr>
                 <th style="text-align: center">
