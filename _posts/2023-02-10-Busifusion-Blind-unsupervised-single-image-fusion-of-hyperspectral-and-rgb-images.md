@@ -4,7 +4,7 @@ type: blog
 selected: true
 layout: post
 author: J. Li, Y. Li, C. Wang, X. Ye, and W. Heidrich
-post-image: "/assets/images/BUSIFusion.png"
+post-image: ["/assets/images/BUSIFusion.png","/assets/images/BUSIFusion.png"]
 description:  
 tags:
 - Unsupervised Image Fusion
