@@ -3,8 +3,8 @@ title: people
 layout: page
 ---
 <h4>
-                <div style="text-align: left;width: 82px;padding: 5px 10px;margin-top: 50px;color: #ffffff;background: #295f95;">在校生</div>
-        <table>
+        <div style="text-align: left;width: 82px;padding: 5px 10px;margin-top: 50px;color: #ffffff;background: #295f95;">在校生</div>
+        <table class="people-table">
             <tr>
                 <th style="text-align: center">
                     <img src="/assets/images/people/wyj.JPG" style="border-radius: 50%;width: 200px;height: 200px">
@@ -67,9 +67,8 @@ layout: page
                 <td style="text-align: center"></td>
             </tr>
         </table>
-        
         <div style="text-align: left;width: 82px;padding: 5px 10px;color: #ffffff;background: #295f95;">毕业生</div>
-        <table class="people-table">
+        <table>
             <tr>
                 <th style="text-align: center;width: 33.3%">
                     <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;width: 200px;height: 200px">
