@@ -21,15 +21,15 @@ layout: page
                 <td style="text-align: center"><a href="https://github.com/ywt123abc">殷文婷</a></td>
                 <td style="text-align: center"><a href="https://github.com/TIMESTICKING">李佳宝</a></td>
             </tr>
-            <tr>
-                <td style="text-align: center">深度学习</td>
-                <td style="text-align: center">深度学习、图像处理</td>
-                <td style="text-align: center">深度学习&图像学&图形学</td>
-            </tr>
             <tr class="email_text">
                 <td style="text-align: center">email</td>
                 <td style="text-align: center">email</td>
                 <td style="text-align: center">ycupinstant@gmail.com</td>
+            </tr>
+            <tr>
+                <td style="text-align: center">深度学习</td>
+                <td style="text-align: center">深度学习、图像处理</td>
+                <td style="text-align: center">深度学习&图像学&图形学</td>
             </tr>
             <tr>
                 <th style="text-align: center">
@@ -46,6 +46,11 @@ layout: page
                 <td style="text-align: center"><a href="https://github.com/sunciliang">孙辞量</a></td>
                 <td style="text-align: center"><a href="https://github.com/meixiaoyinn">梅校寅</a></td>
                 <td style="text-align: center"><a href="https://github.com/chenchen772">陈欣宇</a></td>
+            </tr>
+            <tr class="email_text">
+                <td style="text-align: center">email</td>
+                <td style="text-align: center">email</td>
+                <td style="text-align: center">email</td>
             </tr>
             <tr>
                 <td style="text-align: center">3D重建</td>
@@ -64,6 +69,11 @@ layout: page
             <tr>
                 <td style="text-align: center"><a href="https://github.com/a656418zz">向锦辉</a></td>
                 <td style="text-align: center"><a href="https://github.com/lewis-101">张世杰</a></td>
+                <td style="text-align: center"></td>
+            </tr>
+            <tr class="email_text">
+                <td style="text-align: center">email</td>
+                <td style="text-align: center">email</td>
                 <td style="text-align: center"></td>
             </tr>
             <tr>
