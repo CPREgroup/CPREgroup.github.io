@@ -3,27 +3,7 @@ title: people
 layout: page
 ---
 <h4>
-        <div style="text-align: left;width: 82px;padding: 5px 10px;color: #ffffff;background: #295f95;">毕业生</div>
-        <table class="people-table">
-            <tr>
-                <th style="text-align: center;width: 33.3%">
-                    <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;width: 200px;height: 200px">
-                </th>
-                <th style="text-align: center"> </th>
-                <th style="text-align: center"> </th>
-            </tr>
-            <tr>
-                <td style="text-align: center;width: 33.3%"><a href="https://github.com/Txy-study">田雪燕</a></td>
-                <td> </td>
-                <td> </td>
-            </tr>
-            <tr>
-                <td style="text-align: center;width: 33.3%">深度学习</td>
-                <td> </td>
-                <td> </td>
-            </tr>
-        </table>
-        <div style="text-align: left;width: 82px;padding: 5px 10px;margin-top: 50px;color: #ffffff;background: #295f95;">在校生</div>
+                <div style="text-align: left;width: 82px;padding: 5px 10px;margin-top: 50px;color: #ffffff;background: #295f95;">在校生</div>
         <table>
             <tr>
                 <th style="text-align: center">
@@ -87,4 +67,26 @@ layout: page
                 <td style="text-align: center"></td>
             </tr>
         </table>
+        
+        <div style="text-align: left;width: 82px;padding: 5px 10px;color: #ffffff;background: #295f95;">毕业生</div>
+        <table class="people-table">
+            <tr>
+                <th style="text-align: center;width: 33.3%">
+                    <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;width: 200px;height: 200px">
+                </th>
+                <th style="text-align: center"> </th>
+                <th style="text-align: center"> </th>
+            </tr>
+            <tr>
+                <td style="text-align: center;width: 33.3%"><a href="https://github.com/Txy-study">田雪燕</a></td>
+                <td> </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td style="text-align: center;width: 33.3%">深度学习</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+        </table>
+
     </h4>
