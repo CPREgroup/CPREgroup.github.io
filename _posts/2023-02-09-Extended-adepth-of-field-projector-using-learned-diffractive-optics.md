@@ -5,7 +5,7 @@ selected: true
 layout: post
 author: Y. Li, Q. Fu, and W. Heidrich
 author-link: ""
-post-image: "/assets/images/EDOFProjector/EDOF.png"
+post-image: "/assets/images/EDOFprojector/EDOF.png"
 description: 
 tags:
   - Projection display
