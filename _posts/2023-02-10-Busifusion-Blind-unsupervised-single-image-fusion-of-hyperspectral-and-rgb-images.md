@@ -5,7 +5,7 @@ selected: true
 layout: post
 author: J. Li, Y. Li, C. Wang, X. Ye, and W. Heidrich
 post-image: "/assets/images/busifusion/BUSIFusion.png"
-description:  
+description:  IEEE Transaction of Computational Imaging
 tags:
 - Unsupervised Image Fusion
 - Blind Fusion
@@ -23,9 +23,9 @@ and paper at <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1
 ![structure](/assets/images/busifusion/structure.png)
 <br><br>
 
-**The dataset looks like this:**<br>
+**The dataset:**<br>
 ![structure](/assets/images/busifusion/datasample.png)
 
-**And the fusion results on real scenario looks like this:**<br>
+**The fusion results on real scenario:**<br>
 ![structure](/assets/images/busifusion/realdata.png)
 
