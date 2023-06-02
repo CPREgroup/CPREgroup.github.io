@@ -18,7 +18,7 @@ and paper at <a href="https://www.techrxiv.org/articles/preprint/Efficient_Full_
 
 ---
 
-**The physical model of the Procams displaying images on textured surfaces.:**<br>
+**The physical model of the Procams displaying images on textured surfaces:**<br>
 ![structure](/assets/images/projector compensation/model set.png)
 <br><br>
 
