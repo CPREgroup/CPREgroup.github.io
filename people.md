@@ -33,7 +33,7 @@ layout: page
             </tr>
             <tr>
                 <th style="text-align: center">
-                    <img src="/assets/images/people/scl.JPG" style="border-radius: 50%;width: 200px;height: 200px">
+                    <img src="/assets/images/people/scl.jpg" style="border-radius: 50%;width: 200px;height: 200px">
                 </th>
                 <th style="text-align: center">
                     <img src="/assets/images/people/mxy.jpg" style="border-radius: 50%;width: 200px;height: 200px">
