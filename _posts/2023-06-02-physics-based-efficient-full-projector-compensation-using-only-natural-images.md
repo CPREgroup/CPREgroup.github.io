@@ -26,5 +26,5 @@ and paper at <a href="https://www.techrxiv.org/articles/preprint/Efficient_Full_
 ![structure](/assets/images/projector compensation/result.png)
 
 **The fusion results on real scenario:**<br>
-![structure](assets/images/projector compensation/compare.png)
+![structure](/assets/images/projector compensation/compare.png)
 
