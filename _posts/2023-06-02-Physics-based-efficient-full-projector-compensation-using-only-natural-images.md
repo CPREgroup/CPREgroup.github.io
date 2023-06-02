@@ -19,12 +19,12 @@ and paper at <a href="https://www.techrxiv.org/articles/preprint/Efficient_Full_
 ---
 
 **The physical model of the Procams displaying images on textured surfaces:**<br>
-![structure](/assets/images/projector compensation/model set.png)
+![structure](/assets/images/projector_compensation/model_set.png)
 <br><br>
 
 **The temporary compensated images and simulated results of our compensation algorithm with the different number of iterations (iter=5, 10, 15, 20):**<br>
-![structure](/assets/images/projector compensation/result.png)
+![structure](/assets/images/projector_compensation/result.png)
 
 **The comparisons of the compensation results of our method and CompenNeSt++ on the projection surface:**<br>
-![structure](/assets/images/projector compensation/compare.png)
+![structure](/assets/images/projector_compensation/compare.png)
 
