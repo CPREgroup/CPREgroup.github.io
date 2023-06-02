@@ -4,7 +4,7 @@ type: blog
 selected: true
 layout: post
 author: Y. Li, W. Yin, J. Li, and X. Xie
-post-image: "/assets/images/busifusion/BUSIFusion.png"
+post-image: "/assets/images/projector compensation/structure.png"
 description:  IEEE Transactions on Visualization and Computer Graphics
 tags:
 - Full Projector Compensation
@@ -19,12 +19,12 @@ and paper at <a href="https://www.techrxiv.org/articles/preprint/Efficient_Full_
 ---
 
 **The framework is an unrolling network based on physical model:**<br>
-![structure](/assets/images/busifusion/structure.png)
+![structure](/assets/images/projector compensation/model set.png)
 <br><br>
 
 **The dataset:**<br>
-![structure](/assets/images/busifusion/datasample.png)
+![structure](/assets/images/projector compensation/result.png)
 
 **The fusion results on real scenario:**<br>
-![structure](/assets/images/busifusion/realdata.png)
+![structure](/assets/images/projector compensation/compare.png)
 
