@@ -4,7 +4,7 @@ type: blog
 selected: true
 layout: post
 author: Y. Li, W. Yin, J. Li, and X. Xie
-post-image: "/assets/images/projector compensation/structure.png"
+post-image: "/assets/images/projector_compensation/structure.png"
 description:  IEEE Transactions on Visualization and Computer Graphics
 tags:
 - Full Projector Compensation
