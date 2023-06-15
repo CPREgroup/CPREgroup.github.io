@@ -47,7 +47,7 @@ author-name: Yuqi Li
 # URL for the Image of the Author
 author-image: "assets/images/people/Yuqi Li.jpg"
 # 60 Words About the Author
-author-about: 目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。/r/n Yuqi Li is an Associate Professor at Ningbo University. He received the B.S. degree and the  Ph.D. degree in computer science and technology from Zhejiang University in 2010 and 2016. From 2019 to 2021, he was Postdoctoral Fellow at Visual Computing Center, KAUST. His recent interest is in computational imaging and computational display, focusing on high-color-fidelity display, image reconstruction, and deep learning.
+author-about: 目前从事的主要研究工作：研究领域包括深度学习，图像处理，计算摄影，计算显示。<br/> Yuqi Li is an Associate Professor at Ningbo University. He received the B.S. degree and the  Ph.D. degree in computer science and technology from Zhejiang University in 2010 and 2016. From 2019 to 2021, he was Postdoctoral Fellow at Visual Computing Center, KAUST. His recent interest is in computational imaging and computational display, focusing on high-color-fidelity display, image reconstruction, and deep learning.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/CPREgroup
 
