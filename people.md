@@ -12,24 +12,23 @@ layout: page
                 <th style="text-align: center">
                     <img src="/assets/images/people/ywt.JPG" style="border-radius: 50%;width: 200px;height: 200px">
                 </th>
-                <th style="text-align: center">
-                    <img src="/assets/images/people/ljb2.jpg" style="border-radius: 50%;width: 200px;height: 200px">
+                <th style="text-align: center"> 
                 </th>
             </tr>
             <tr>
                 <td style="text-align: center"><a href="https://github.com/linux">汪一江</a></td>
                 <td style="text-align: center"><a href="https://github.com/ywt123abc">殷文婷</a></td>
-                <td style="text-align: center"><a href="https://github.com/TIMESTICKING">李佳宝</a></td>
+                <td style="text-align: center"></td>
             </tr>
             <tr class="email_text">
                 <td style="text-align: center">email</td>
                 <td style="text-align: center">email</td>
-                <td style="text-align: center">ycupinstant@gmail.com</td>
+                <td style="text-align: center"></td>
             </tr>
             <tr>
                 <td style="text-align: center">深度学习</td>
                 <td style="text-align: center">深度学习、图像处理</td>
-                <td style="text-align: center">深度学习&光谱图像&NeRF</td>
+                <td style="text-align: center"></td>
             </tr>
             <tr>
                 <th style="text-align: center">
@@ -88,17 +87,19 @@ layout: page
                 <th style="text-align: center;width: 33.3%">
                     <img src="/assets/images/people/txy.jpg" style="border-radius: 50%;width: 200px;height: 200px">
                 </th>
-                <th style="text-align: center"> </th>
+                <th style="text-align: center;width: 33.3%"> 
+                    <img src="/assets/images/people/ljb2.jpg" style="border-radius: 50%;width: 200px;height: 200px">
+                </th>
                 <th style="text-align: center"> </th>
             </tr>
             <tr>
                 <td style="text-align: center;width: 33.3%"><a href="https://github.com/Txy-study">田雪燕</a></td>
-                <td> </td>
+                <td style="text-align: center;width: 33.3%"> <a href="https://github.com/TIMESTICKING">李佳宝</a></td>
                 <td> </td>
             </tr>
             <tr>
                 <td style="text-align: center;width: 33.3%">深度学习</td>
-                <td> </td>
+                <td style="text-align: center;width: 33.3%"> 深度学习&光谱图像&NeRF</td>
                 <td> </td>
             </tr>
         </table>
