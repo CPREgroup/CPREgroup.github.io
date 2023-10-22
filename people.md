@@ -99,7 +99,7 @@ layout: page
             </tr>
             <tr>
                 <td style="text-align: center;width: 33.3%">深度学习</td>
-                <td style="text-align: center;width: 33.3%"> 深度学习&光谱图像&NeRF</td>
+                <td style="text-align: center;width: 33.3%"> Image Restoration&NeRF</td>
                 <td> </td>
             </tr>
         </table>
